@@ -92,7 +92,7 @@ if __name__=="__main__":
         elif 'open instagram' in query:
             path()
             Url_name()
-            login("crist_2503","Cynthiavats@123")
+            login("username","password")
             exit()
 
  
